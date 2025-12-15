@@ -1,9 +1,12 @@
 {
-  "name": "password-generator",
+  "name": "Password-Gnerator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jamila-ait-hamou.github.io/Password-Gnerator/",
+
   "scripts": {
+  "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
