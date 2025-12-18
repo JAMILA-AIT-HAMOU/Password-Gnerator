@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jamila-ait-hamou.github.io/Password-Gnerator/",
+  "homepage": "https://jamila-ait-hamou.github.io/OTP-Generator/",
 
   "scripts": {
   "deploy": "gh-pages -d dist",
